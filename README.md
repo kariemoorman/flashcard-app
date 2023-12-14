@@ -1,5 +1,12 @@
 # flashcard-app
+
 Simple flashcard app to assist with studying for tests and certifications.
+
+<hr> 
+
+<p align="center">
+  <img src="https://github.com/kariemoorman/flashcard-app/blob/main/flashcard_app_dem0.gif" width="600" alt="Animated GIF">
+</p>
 
 <hr> 
 
